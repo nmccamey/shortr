@@ -1,0 +1,7 @@
+---
+secrets:
+    - a3572b829e728c6cddacdc6a9f21c38b2bc64c9e
+database:
+    MYSQL_DATABASE: 'shortr'
+    MYSQL_USER: 'user'
+    MYSQL_PASSWORD: 'password'
